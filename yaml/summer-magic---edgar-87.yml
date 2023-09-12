@@ -1,0 +1,104 @@
+---
+object: card
+id: 9bf3610c-4af3-45e7-a6f8-490c9cd18e3a
+oracle_id: 837182db-1bf3-4a2c-bd01-1af9d9873561
+multiverse_ids: []
+tcgplayer_id: 211876
+cardmarket_id: 16715
+name: Unsummon
+lang: en
+released_at: '1994-06-21'
+uri: https://api.scryfall.com/cards/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a
+scryfall_uri: https://scryfall.com/card/sum/87/unsummon?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/b/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a.jpg?1559592802
+  normal: https://cards.scryfall.io/normal/front/9/b/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a.jpg?1559592802
+  large: https://cards.scryfall.io/large/front/9/b/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a.jpg?1559592802
+  png: https://cards.scryfall.io/png/front/9/b/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a.png?1559592802
+  art_crop: https://cards.scryfall.io/art_crop/front/9/b/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a.jpg?1559592802
+  border_crop: https://cards.scryfall.io/border_crop/front/9/b/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a.jpg?1559592802
+mana_cost: "{U}"
+cmc: 1.0
+type_line: Instant
+oracle_text: Return target creature to its owner's hand.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set: sum
+set_name: Summer Magic / Edgar
+set_type: core
+set_uri: https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sum?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9bf3610c-4af3-45e7-a6f8-490c9cd18e3a/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A837182db-1bf3-4a2c-bd01-1af9d9873561&unique=prints
+collector_number: '87'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Douglas Shuler
+artist_ids:
+- a9ddb513-51c7-455c-ab8f-5b90aae9f75b
+illustration_id: 5e493d6c-7c9d-40f4-b170-4e80b7107c88
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 3194
+penny_rank: 1404
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '200.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Unsummon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Unsummon&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Unsummon
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/211876?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Unsummon&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Unsummon&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,101 @@
+---
+object: card
+id: f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb
+oracle_id: 6021c2d6-d098-4de2-9c7e-4c571f9238f6
+multiverse_ids: []
+tcgplayer_id: 211734
+cardmarket_id: 16919
+name: Soul Net
+lang: en
+released_at: '1994-06-21'
+uri: https://api.scryfall.com/cards/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb
+scryfall_uri: https://scryfall.com/card/sum/275/soul-net?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/f/1/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb.jpg?1559593060
+  normal: https://cards.scryfall.io/normal/front/f/1/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb.jpg?1559593060
+  large: https://cards.scryfall.io/large/front/f/1/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb.jpg?1559593060
+  png: https://cards.scryfall.io/png/front/f/1/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb.png?1559593060
+  art_crop: https://cards.scryfall.io/art_crop/front/f/1/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb.jpg?1559593060
+  border_crop: https://cards.scryfall.io/border_crop/front/f/1/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb.jpg?1559593060
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: Whenever a creature dies, you may pay {1}. If you do, you gain 1 life.
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set: sum
+set_name: Summer Magic / Edgar
+set_type: core
+set_uri: https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sum?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/f1bafbb8-1c8c-4d39-8d86-5fde416ff6bb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6021c2d6-d098-4de2-9c7e-4c571f9238f6&unique=prints
+collector_number: '275'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dameon Willich
+artist_ids:
+- 606a37b0-9d2d-477b-b679-100bc30b46b3
+illustration_id: a651514e-a309-4eac-ae7a-1fc7e3449803
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19758
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '399.00'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Soul+Net&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Soul+Net&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Soul+Net
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/211734?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Soul+Net&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Soul+Net&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

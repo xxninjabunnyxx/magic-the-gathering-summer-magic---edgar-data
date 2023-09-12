@@ -1,0 +1,109 @@
+---
+object: card
+id: 6602b025-d795-4fa4-9094-f21b2ff1b5cf
+oracle_id: aa5e6894-8c97-46f8-a0fd-07c6db51e9a7
+multiverse_ids: []
+tcgplayer_id: 211971
+cardmarket_id: 16669
+name: Wall of Wood
+lang: en
+released_at: '1994-06-21'
+uri: https://api.scryfall.com/cards/6602b025-d795-4fa4-9094-f21b2ff1b5cf
+scryfall_uri: https://scryfall.com/card/sum/226/wall-of-wood?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/6/6602b025-d795-4fa4-9094-f21b2ff1b5cf.jpg?1559592768
+  normal: https://cards.scryfall.io/normal/front/6/6/6602b025-d795-4fa4-9094-f21b2ff1b5cf.jpg?1559592768
+  large: https://cards.scryfall.io/large/front/6/6/6602b025-d795-4fa4-9094-f21b2ff1b5cf.jpg?1559592768
+  png: https://cards.scryfall.io/png/front/6/6/6602b025-d795-4fa4-9094-f21b2ff1b5cf.png?1559592768
+  art_crop: https://cards.scryfall.io/art_crop/front/6/6/6602b025-d795-4fa4-9094-f21b2ff1b5cf.jpg?1559592768
+  border_crop: https://cards.scryfall.io/border_crop/front/6/6/6602b025-d795-4fa4-9094-f21b2ff1b5cf.jpg?1559592768
+mana_cost: "{G}"
+cmc: 1.0
+type_line: Creature — Wall
+oracle_text: Defender (This creature can't attack.)
+power: '0'
+toughness: '3'
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Defender
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set: sum
+set_name: Summer Magic / Edgar
+set_type: core
+set_uri: https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sum?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6602b025-d795-4fa4-9094-f21b2ff1b5cf/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaa5e6894-8c97-46f8-a0fd-07c6db51e9a7&unique=prints
+collector_number: '226'
+digital: false
+rarity: common
+flavor_text: Everybody knows that to ward off trouble, you knock on wood. But usually
+  it's better to make a wall out of the wood and let trouble do the knocking.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: e50c8da9-0fbd-4b38-a6fd-6e1c8ba54808
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18501
+penny_rank: 12288
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '167.43'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Wall+of+Wood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Wall+of+Wood&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Wall+of+Wood
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/211971?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Wall+of+Wood&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Wall+of+Wood&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

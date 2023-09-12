@@ -1,0 +1,108 @@
+---
+object: card
+id: 88910aa1-180d-41ab-a6ea-57fd66a955aa
+oracle_id: c470fbe1-0538-46ec-8741-3143f5e78af8
+multiverse_ids: []
+tcgplayer_id: 211881
+cardmarket_id: 16710
+name: Water Elemental
+lang: en
+released_at: '1994-06-21'
+uri: https://api.scryfall.com/cards/88910aa1-180d-41ab-a6ea-57fd66a955aa
+scryfall_uri: https://scryfall.com/card/sum/92/water-elemental?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/8/88910aa1-180d-41ab-a6ea-57fd66a955aa.jpg?1559592822
+  normal: https://cards.scryfall.io/normal/front/8/8/88910aa1-180d-41ab-a6ea-57fd66a955aa.jpg?1559592822
+  large: https://cards.scryfall.io/large/front/8/8/88910aa1-180d-41ab-a6ea-57fd66a955aa.jpg?1559592822
+  png: https://cards.scryfall.io/png/front/8/8/88910aa1-180d-41ab-a6ea-57fd66a955aa.png?1559592822
+  art_crop: https://cards.scryfall.io/art_crop/front/8/8/88910aa1-180d-41ab-a6ea-57fd66a955aa.jpg?1559592822
+  border_crop: https://cards.scryfall.io/border_crop/front/8/8/88910aa1-180d-41ab-a6ea-57fd66a955aa.jpg?1559592822
+mana_cost: "{3}{U}{U}"
+cmc: 5.0
+type_line: Creature — Elemental
+oracle_text: ''
+power: '5'
+toughness: '4'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set: sum
+set_name: Summer Magic / Edgar
+set_type: core
+set_uri: https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sum?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/88910aa1-180d-41ab-a6ea-57fd66a955aa/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac470fbe1-0538-46ec-8741-3143f5e78af8&unique=prints
+collector_number: '92'
+digital: false
+rarity: uncommon
+flavor_text: Unpredictable as the sea itself, Water Elementals shift without warning
+  from tranquility to tempest. Capricious and fickle, they flow restlessly from one
+  shape to another, expressing their moods with their physical forms.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jeff A. Menges
+artist_ids:
+- 14a1de4b-1237-4e7b-8868-b71e87c9a46e
+illustration_id: '09cc838d-1948-48d8-9492-012f126772e5'
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 24685
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '251.09'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Water+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Water+Elemental&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Water+Elemental
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/211881?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Water+Elemental&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Water+Elemental&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

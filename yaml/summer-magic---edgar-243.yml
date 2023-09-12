@@ -1,0 +1,107 @@
+---
+object: card
+id: d9ec7ca0-82d9-489b-a0f7-2539b5c942c7
+oracle_id: 82b13601-d460-45c5-94a1-07e146d463a9
+multiverse_ids: []
+tcgplayer_id: 211684
+cardmarket_id: 16885
+name: Dancing Scimitar
+lang: en
+released_at: '1994-06-21'
+uri: https://api.scryfall.com/cards/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7
+scryfall_uri: https://scryfall.com/card/sum/243/dancing-scimitar?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/9/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7.jpg?1559592705
+  normal: https://cards.scryfall.io/normal/front/d/9/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7.jpg?1559592705
+  large: https://cards.scryfall.io/large/front/d/9/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7.jpg?1559592705
+  png: https://cards.scryfall.io/png/front/d/9/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7.png?1559592705
+  art_crop: https://cards.scryfall.io/art_crop/front/d/9/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7.jpg?1559592705
+  border_crop: https://cards.scryfall.io/border_crop/front/d/9/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7.jpg?1559592705
+mana_cost: "{4}"
+cmc: 4.0
+type_line: Artifact Creature — Spirit
+oracle_text: Flying (This creature can't be blocked except by creatures with flying
+  or reach.)
+power: '1'
+toughness: '5'
+colors: []
+color_identity: []
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set: sum
+set_name: Summer Magic / Edgar
+set_type: core
+set_uri: https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sum?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d9ec7ca0-82d9-489b-a0f7-2539b5c942c7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A82b13601-d460-45c5-94a1-07e146d463a9&unique=prints
+collector_number: '243'
+digital: false
+rarity: rare
+flavor_text: Bobbing merrily from opponent to opponent, the scimitar began adding
+  playful little flourishes to its strokes; it even turned a couple of somersaults.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Anson Maddocks
+artist_ids:
+- 634430a7-b5c3-4e4a-b2ac-164e084e47c9
+illustration_id: 0fd8cdd5-584d-4c62-abf8-5219bc822c99
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 18734
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dancing+Scimitar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dancing+Scimitar&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dancing+Scimitar
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/211684?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dancing+Scimitar&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Dancing+Scimitar&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

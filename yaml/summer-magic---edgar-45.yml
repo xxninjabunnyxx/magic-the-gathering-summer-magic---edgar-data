@@ -1,0 +1,106 @@
+---
+object: card
+id: 1d8b9830-2b79-44d1-a2f7-964194521d9e
+oracle_id: 860468b3-625a-4663-a5ae-336ae10fc7d0
+multiverse_ids: []
+tcgplayer_id: 211778
+cardmarket_id: 16871
+name: White Ward
+lang: en
+released_at: '1994-06-21'
+uri: https://api.scryfall.com/cards/1d8b9830-2b79-44d1-a2f7-964194521d9e
+scryfall_uri: https://scryfall.com/card/sum/45/white-ward?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/d/1d8b9830-2b79-44d1-a2f7-964194521d9e.jpg?1559593023
+  normal: https://cards.scryfall.io/normal/front/1/d/1d8b9830-2b79-44d1-a2f7-964194521d9e.jpg?1559593023
+  large: https://cards.scryfall.io/large/front/1/d/1d8b9830-2b79-44d1-a2f7-964194521d9e.jpg?1559593023
+  png: https://cards.scryfall.io/png/front/1/d/1d8b9830-2b79-44d1-a2f7-964194521d9e.png?1559593023
+  art_crop: https://cards.scryfall.io/art_crop/front/1/d/1d8b9830-2b79-44d1-a2f7-964194521d9e.jpg?1559593023
+  border_crop: https://cards.scryfall.io/border_crop/front/1/d/1d8b9830-2b79-44d1-a2f7-964194521d9e.jpg?1559593023
+mana_cost: "{W}"
+cmc: 1.0
+type_line: Enchantment — Aura
+oracle_text: |-
+  Enchant creature
+  Enchanted creature has protection from white. This effect doesn't remove White Ward.
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Enchant
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set: sum
+set_name: Summer Magic / Edgar
+set_type: core
+set_uri: https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sum?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/1d8b9830-2b79-44d1-a2f7-964194521d9e/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A860468b3-625a-4663-a5ae-336ae10fc7d0&unique=prints
+collector_number: '45'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Dan Frazier
+artist_ids:
+- '059bba56-5feb-42e4-8c2e-e2f1e6ba11f9'
+illustration_id: addac9d0-157a-4e12-af40-3af535b45673
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20472
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: '236.02'
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=White+Ward&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=White+Ward&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=White+Ward
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/211778?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=White+Ward&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=White+Ward&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

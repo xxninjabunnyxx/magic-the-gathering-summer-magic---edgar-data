@@ -1,0 +1,103 @@
+---
+object: card
+id: 9138d11a-d55f-4c46-bb27-7e8e15a44e8c
+oracle_id: 6ad8011d-3471-4369-9d68-b264cc027487
+multiverse_ids: []
+tcgplayer_id: 211733
+cardmarket_id: 16918
+name: Sol Ring
+lang: en
+released_at: '1994-06-21'
+uri: https://api.scryfall.com/cards/9138d11a-d55f-4c46-bb27-7e8e15a44e8c
+scryfall_uri: https://scryfall.com/card/sum/274/sol-ring?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/1/9138d11a-d55f-4c46-bb27-7e8e15a44e8c.jpg?1559592963
+  normal: https://cards.scryfall.io/normal/front/9/1/9138d11a-d55f-4c46-bb27-7e8e15a44e8c.jpg?1559592963
+  large: https://cards.scryfall.io/large/front/9/1/9138d11a-d55f-4c46-bb27-7e8e15a44e8c.jpg?1559592963
+  png: https://cards.scryfall.io/png/front/9/1/9138d11a-d55f-4c46-bb27-7e8e15a44e8c.png?1559592963
+  art_crop: https://cards.scryfall.io/art_crop/front/9/1/9138d11a-d55f-4c46-bb27-7e8e15a44e8c.jpg?1559592963
+  border_crop: https://cards.scryfall.io/border_crop/front/9/1/9138d11a-d55f-4c46-bb27-7e8e15a44e8c.jpg?1559592963
+mana_cost: "{1}"
+cmc: 1.0
+type_line: Artifact
+oracle_text: "{T}: Add {C}{C}."
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: banned
+  pauper: not_legal
+  vintage: restricted
+  penny: not_legal
+  commander: legal
+  oathbreaker: banned
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: banned
+  oldschool: restricted
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set: sum
+set_name: Summer Magic / Edgar
+set_type: core
+set_uri: https://api.scryfall.com/sets/7993c591-1361-4dcb-b2af-ac94dd8e86e8
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Asum&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/sum?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9138d11a-d55f-4c46-bb27-7e8e15a44e8c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6ad8011d-3471-4369-9d68-b264cc027487&unique=prints
+collector_number: '274'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Mark Tedin
+artist_ids:
+- 9ee9a9cc-c09e-486f-918b-69f80cbc4188
+illustration_id: 54462260-8d64-4ec2-bac7-f2d469f187f3
+border_color: white
+frame: '1993'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 1
+prices:
+  usd: 
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Sol+Ring&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Sol+Ring&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Sol+Ring
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/211733?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Sol+Ring&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Sol+Ring&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
